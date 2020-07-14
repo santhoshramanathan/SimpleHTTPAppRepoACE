@@ -1,4 +1,4 @@
-FROM ibmcom/ace/ace:latest
+FROM default-route-openshift-image-registry.cloud-integration-224380-6fb0b86391cd68c8282858623a1dddff-0000.eu-gb.containers.appdomain.cloud/ace/ace:latest
 
 ENV BAR1=SimpleHTTPApp.bar
 
